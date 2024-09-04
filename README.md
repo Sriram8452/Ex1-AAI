@@ -5,7 +5,9 @@
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
-    To create a bayesian Network for the given dataset in Python
+
+To create a bayesian Network for the given dataset in Python
+ 
     
 ## Algorithm:
 
